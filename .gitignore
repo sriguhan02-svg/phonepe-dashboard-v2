@@ -1,0 +1,9 @@
+venv/
+pulse/
+processed/*.csv
+processed/phonepe.db
+__pycache__/
+*.pyc
+.DS_Store
+.env
+processed/*.sqbpro
