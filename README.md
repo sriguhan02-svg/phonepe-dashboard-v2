@@ -83,4 +83,4 @@ Open `PhonePe_Dashboard.pbix` in Power BI Desktop and refresh the data source to
 
 ## 👨‍💻 Author
 
-Sriguhan K — [LinkedIn](www.linkedin.com/in/sri-guhan-1ba29126a) · [GitHub](https://github.com/sriguhan02-svg)
+Sriguhan K — [LinkedIn](https://www.linkedin.com/in/sri-guhan-1ba29126a) · [GitHub](https://github.com/sriguhan02-svg)
