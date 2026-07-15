@@ -2,11 +2,11 @@
 
 End-to-end analysis of India's digital payments data (2018–2024) from PhonePe's public [Pulse](https://github.com/PhonePe/pulse) dataset — from raw JSON to a cleaned SQLite database, SQL analysis, and a Power BI dashboard.
 
-## 📊 Dashboard
+## 📊 Live Dashboard
 
 ![Dashboard walkthrough](assets/dashboard_demo.gif)
 
-Full PDF export: [`assets/dashboard.pdf`](assets/dashboard.pdf) · Editable file: [`PhonePe_Dashboard.pbix`](PhonePe_Dashboard.pbix)
+Full PDF export: [`assets/dashboard.pdf`](assets/dashboard.pdf) · Editable file: [`PhonePe_Dashboard.pbix`](PhonePe_Dashboard.pbix) . Interactive Power BI Dashboard: ['Public Link'](https://app.powerbi.com/view?r=eyJrIjoiNzM4MGY0YjAtZDU0ZC00MTY5LTk2NzctMjg2ZDA3YTFkMTg5IiwidCI6IjZiOGI4Mjk2LWJkZmYtNGFkOC05M2FkLTg0YmNiZjM4NDJmNSJ9&pageName=e8aff176764522842827)
 
 ## 🏗️ Architecture
 
@@ -83,4 +83,4 @@ Open `PhonePe_Dashboard.pbix` in Power BI Desktop and refresh the data source to
 
 ## 👨‍💻 Author
 
-Sriguhan K — [LinkedIn](https://www.linkedin.com/in/sri-guhan-1ba29126a) · [GitHub](https://github.com/sriguhan02-svg)
+Sriguhan K — [LinkedIn](https://www.linkedin.com/in/sri-guhan-1ba29126a) · [GitHub](https://github.com/sriguhan02-svg) . [Email](sriguhan02@gmail.com)
